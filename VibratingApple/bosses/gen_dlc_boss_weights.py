@@ -71,7 +71,7 @@ for boss, values in bosses.items():
                 str(weight))
 
         set_row(room_name, 1.0 if weight != 0.0 else 0.0)
-        set_row(boss_name, 0.0)
+        set_row(boss_name, weight)
 
         mod.newline()
     mod.close()

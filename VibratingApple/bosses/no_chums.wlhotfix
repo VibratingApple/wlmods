@@ -25,6 +25,6 @@ SparkLevelPatchEntry,(1,2,0,EndlessDungeon_P),/Game/PatchDLC/Indigo1/GameData/Ro
 SparkLevelPatchEntry,(1,2,0,EndlessDungeon_P),/Game/PatchDLC/Indigo1/GameData/Rooms/Indigo1_DetailedRoomInfos.Indigo1_DetailedRoomInfos,ED_Shark_03,Weight,0,,0.0
 SparkLevelPatchEntry,(1,2,0,EndlessDungeon_P),/Game/PatchDLC/Indigo1/GameData/Rooms/Indigo1_DetailedRoomInfos.Indigo1_DetailedRoomInfos,ED_SharkBoss_03,Weight,0,,0.0
 
-SparkLevelPatchEntry,(1,2,0,EndlessDungeon_P),/Game/PatchDLC/Indigo1/GameData/Rooms/Indigo1_DetailedRoomInfos.Indigo1_DetailedRoomInfos,ED_Shark_04,Weight,0,,1.0
-SparkLevelPatchEntry,(1,2,0,EndlessDungeon_P),/Game/PatchDLC/Indigo1/GameData/Rooms/Indigo1_DetailedRoomInfos.Indigo1_DetailedRoomInfos,ED_SharkBoss_04,Weight,0,,1.0
+SparkLevelPatchEntry,(1,2,0,EndlessDungeon_P),/Game/PatchDLC/Indigo1/GameData/Rooms/Indigo1_DetailedRoomInfos.Indigo1_DetailedRoomInfos,ED_Shark_04,Weight,0,,0.0
+SparkLevelPatchEntry,(1,2,0,EndlessDungeon_P),/Game/PatchDLC/Indigo1/GameData/Rooms/Indigo1_DetailedRoomInfos.Indigo1_DetailedRoomInfos,ED_SharkBoss_04,Weight,0,,0.0
 
